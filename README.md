@@ -36,4 +36,6 @@ Prior Work / References:
 
 [7] https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-cnn.html
 
-[8] course material: NLP_Live_Session_Notebook.ipynb
+[8] https://torchtext.readthedocs.io/en/latest/data.html
+
+[9] course material: NLP_Live_Session_Notebook.ipynb
