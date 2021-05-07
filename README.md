@@ -6,10 +6,15 @@ In part one, we tried out different combinations of the vectorizers and classifi
 
 Models Performance Comparison: (from high accuracy to low)
 TF-IDF Vectorizer + Random Forest Classifier (TFIDF+RF): 0.8571
+
 Recurrent Neural Network: 0.8571
+
 Convolutional Neural Network: 0.8519
+
 TF-IDF Vectorizer + Naive Bayes Classifier (TFIDF+NB): 0.8518
+
 Countvectorizer + Random Forest Classifier (CV+RF): 0.8492
+
 Countvectorizer + Naive Bayes Classifier (CV+NB): 0.8412
 
 TFIDF+RF and RNN have the highest accuracy 85.71%.
