@@ -5,6 +5,7 @@ Besides the historical stock data, stock fluctuation is also highly correlated w
 In part one, we tried out different combinations of the vectorizers and classifiers for training. The two vectorization tools are TF-IDF vectorizer and CountVectorizer. The two classification models are Random Forest Classifier and Naive Bayes Classifier. We implemented them by using the scikit-learn packages. In the second part, we used the torchtext package for loading data and used the pre-trained word embedding vector, which is ‘glove.6B.100d’ for the text vectorization. We used Pytorch to build our neural network for training. Our implementation includes the Recurrent Neural Network and Convolutional Neural Network.
 
 Models Performance Comparison: (from high accuracy to low)
+
 TF-IDF Vectorizer + Random Forest Classifier (TFIDF+RF): 0.8571
 
 Recurrent Neural Network: 0.8571
