@@ -15,6 +15,7 @@ Countvectorizer + Naive Bayes Classifier (CV+NB): 0.8412
 TFIDF+RF and RNN have the highest accuracy 85.71%.
 
 Prior Work / References:
+
 [1] Gidofalvi, G., & Elkan, C. (2001). Using news articles to predict stock price movements. Department of Computer Science and Engineering, University of California, San Diego.
 
 [2] Pennington, J., Socher, R., & Manning, C. D. (2014, October). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
